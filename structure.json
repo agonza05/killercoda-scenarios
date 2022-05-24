@@ -1,0 +1,6 @@
+{
+    "items": [
+      { "path": "intro-to-ansible" },
+      { "path": "ansible-for-networking" }
+    ]
+  }
