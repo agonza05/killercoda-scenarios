@@ -1,7 +1,4 @@
 {
     "title": "Ansible",
-    "description": "Ansible courses and scenarios",
-    "items": [
-      { "path": "intro-to-ansible" }
-    ]
+    "description": "Ansible courses and scenarios"
   }
