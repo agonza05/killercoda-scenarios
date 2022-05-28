@@ -1,5 +1,10 @@
 {
-    "items": [
-      { "path": "ansible" }
-    ]
-  }
+  "title": "Ansible",
+  "description": "Ansible courses and scenarios",
+  "items": [
+    { "path": "ansible/intro-to-ansible",
+      "title": "Intro to Ansible",
+      "description": "Introduction to Ansible basics"
+    }
+  ]
+}
