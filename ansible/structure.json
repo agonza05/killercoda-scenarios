@@ -1,7 +1,0 @@
-{
-  "title": "Intro to Ansible",
-  "description": "Introduction to Ansible basics",
-  "items": [
-    { "path": "intro-to-ansible" }
-  ]
-}
