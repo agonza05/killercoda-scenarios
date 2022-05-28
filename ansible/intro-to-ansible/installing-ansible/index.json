@@ -1,6 +1,6 @@
 {
-    "title": "Intro to Ansible",
-    "description": "A quick-start guide to Ansible",
+    "title": "Installing Ansible",
+    "description": "Intro to Ansible: Installing Ansible",
     "details": {
       "intro": {
         "text": "intro.md"
