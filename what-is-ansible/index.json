@@ -1,0 +1,29 @@
+{
+    "title": "What is Ansible",
+    "description": "Ansible overview and demo",
+    "details": {
+      "intro": {
+        "text": "intro.md"
+      },
+      "steps": [
+        {
+          "title": "Installing ansible",
+          "text": "step1/text.md"
+        },
+        {
+          "title": "Verifying ansible version",
+          "text": "step2/text.md"
+        },
+        {
+          "title": "Run ansible module",
+          "text": "step3/text.md"
+        }
+      ],
+      "finish": {
+        "text": "finish.md"
+      }
+    },
+    "backend": {
+      "imageid": "ubuntu"
+    }
+  }
