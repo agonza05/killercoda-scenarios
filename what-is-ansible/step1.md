@@ -1,1 +1,5 @@
-Ansible is a radically simple IT automation engine that automates [cloud provisioning](https://www.ansible.com/provisioning?hsLang=en-us), configuration management, application deployment, intra-service orchestration, and many other IT needs.
+Ansible is a radically simple IT automation engine that automates [cloud provisioning](https://www.ansible.com/provisioning?hsLang=en-us), [configuration management](https://www.ansible.com/configuration-management?hsLang=en-us), [application deployment](https://www.ansible.com/application-deployment?hsLang=en-us), [intra-service orchestration](https://www.ansible.com/orchestration?hsLang=en-us), and many other IT needs.
+
+Ansible’s main goals are simplicity and ease-of-use. It also has a strong focus on security and reliability, featuring a minimum of moving parts and a language that is designed around auditability by humans–even those not familiar with the program.
+
+It uses no agents and no additional custom security infrastructure, so it's easy to deploy - and most importantly, it uses a very simple language that allow you to describe your automation jobs in a way that approaches plain English.
