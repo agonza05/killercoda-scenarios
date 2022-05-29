@@ -1,0 +1,1 @@
+Ansible is a radically simple IT automation engine that automates [cloud provisioning](https://www.ansible.com/provisioning?hsLang=en-us), configuration management, application deployment, intra-service orchestration, and many other IT needs.

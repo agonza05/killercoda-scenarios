@@ -1,9 +1,9 @@
 {
   "items": [
+    { "path": "what-is-ansible" },
     { "path": "intro-to-ansible",
       "title": "Intro to Ansible",
-      "description": "Introduction to Ansible basics"
-    },
-    { "path": "what-is-ansible" }
+      "description": "Learn the basics of Ansible with this introductory course"
+    }
   ]
 }

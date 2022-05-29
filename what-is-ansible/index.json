@@ -1,22 +1,30 @@
 {
-    "title": "What is Ansible",
-    "description": "Ansible overview and demo",
+    "title": "What is Ansible?",
+    "description": "Get an overview of Ansible and see it in action with a short demo",
     "details": {
       "intro": {
         "text": "intro.md"
       },
       "steps": [
         {
-          "title": "Installing ansible",
-          "text": "step1/text.md"
+          "title": "Overview",
+          "text": "step1.md"
         },
         {
-          "title": "Verifying ansible version",
-          "text": "step2/text.md"
+          "title": "How ansible works?",
+          "text": "step2.md"
         },
         {
-          "title": "Run ansible module",
-          "text": "step3/text.md"
+          "title": "Real life challenge",
+          "text": "step3.md"
+        },
+        {
+          "title": "Ansible solution",
+          "text": "step4.md"
+        },
+        {
+          "title": "Demo",
+          "text": "step5.md"
         }
       ],
       "finish": {
